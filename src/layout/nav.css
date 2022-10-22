@@ -1,0 +1,13 @@
+.nav__container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar__menu {
+    display: flex;
+}
+
+.navbar__menu li {
+    margin: 0px 15px;
+}
